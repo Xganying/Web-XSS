@@ -1,7 +1,7 @@
 # Web-XSS
 
-## xss
-了解web xss攻击防范入门练习例子。
+## xss_test1
+了解web xss攻击入门练习例子。
 
 ## xss_test
 
